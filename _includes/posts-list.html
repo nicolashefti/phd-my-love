@@ -1,0 +1,9 @@
+{% if posts | length > 0 %}
+<ul class="posts-list">
+    {% for post in posts %}
+    <li class="posts-list-item">
+            <h4>{{ post.title }}</h4>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
