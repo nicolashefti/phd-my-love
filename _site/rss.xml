@@ -6,11 +6,11 @@
         <description>RSS feed for Welcome to Spress</description>
         <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
                     <item>
-                <title>Bachelor student writing his Thesis</title>
+                <title>Bachelor student writing his thesis</title>
                 <description><![CDATA[<p><img src="/assets/gif/01.gif"/></p>
 ]]></description>
                 <link>/2014/02/03/bachelor-student-writing-his-thesis/</link>
-                <pubDate>Mon, 03 Feb 2014 17:07:43 +0000</pubDate>
+                <pubDate>Mon, 03 Feb 2014 17:14:13 +0000</pubDate>
                 <guid>/2014/02/03/bachelor-student-writing-his-thesis/</guid>
             </item>
                     <item>
@@ -111,7 +111,7 @@
 <div><a href="#" class="btn btn-default">This is a button</a></div>
 ]]></description>
                 <link>/articles/2014/01/18/sample-post/</link>
-                <pubDate>Sat, 18 Jan 2014 17:07:43 +0000</pubDate>
+                <pubDate>Sat, 18 Jan 2014 17:14:13 +0000</pubDate>
                 <guid>/articles/2014/01/18/sample-post/</guid>
             </item>
             </channel>
