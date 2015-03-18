@@ -36,8 +36,12 @@ code {
 }
 
 /* Post */
-.post footer {
-    margin-top: 20px;
+.post {
+    margin-bottom: 80px;
+}
+
+.post img {
+    width: 250px;
 }
 /* /Post */
 
