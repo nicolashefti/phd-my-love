@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>PhD my love</title>
+        <title>PhD, my love</title>
         <link></link>
-        <description>RSS feed for PhD my love</description>
+        <description>RSS feed for PhD, my love</description>
         <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
                     <item>
                 <title>Bachelor student writing his thesis</title>
                 <description><![CDATA[<p><img src="/assets/gif/01.gif"/></p>
 ]]></description>
                 <link>/2014/01/31/bachelor-student-writing-his-thesis/</link>
-                <pubDate>Fri, 31 Jan 2014 10:54:38 +0000</pubDate>
+                <pubDate>Fri, 31 Jan 2014 17:04:30 +0000</pubDate>
                 <guid>/2014/01/31/bachelor-student-writing-his-thesis/</guid>
             </item>
                     <item>
@@ -18,7 +18,7 @@
                 <description><![CDATA[<p><img src="/assets/gif/02-email.gif"/></p>
 ]]></description>
                 <link>/2014/01/30/waiting-for-boss-comments-on-my-paper/</link>
-                <pubDate>Thu, 30 Jan 2014 10:54:38 +0000</pubDate>
+                <pubDate>Thu, 30 Jan 2014 17:04:30 +0000</pubDate>
                 <guid>/2014/01/30/waiting-for-boss-comments-on-my-paper/</guid>
             </item>
                     <item>
@@ -26,7 +26,7 @@
                 <description><![CDATA[<p><img src="/assets/gif/03-myweek.gif"/></p>
 ]]></description>
                 <link>/2014/01/29/my-phd-week/</link>
-                <pubDate>Wed, 29 Jan 2014 10:54:38 +0000</pubDate>
+                <pubDate>Wed, 29 Jan 2014 17:04:30 +0000</pubDate>
                 <guid>/2014/01/29/my-phd-week/</guid>
             </item>
                     <item>
@@ -34,7 +34,7 @@
                 <description><![CDATA[<p><img src="/assets/gif/04-goodbye.gif"/></p>
 ]]></description>
                 <link>/2014/01/28/after-defending-my-thesis/</link>
-                <pubDate>Tue, 28 Jan 2014 10:54:38 +0000</pubDate>
+                <pubDate>Tue, 28 Jan 2014 17:04:30 +0000</pubDate>
                 <guid>/2014/01/28/after-defending-my-thesis/</guid>
             </item>
                     <item>
@@ -42,8 +42,48 @@
                 <description><![CDATA[<p><img src="/assets/gif/05-bulletproof.gif"/></p>
 ]]></description>
                 <link>/2014/01/27/when-boss-finds-a-flaw-in-my-bulletproof-proposition/</link>
-                <pubDate>Mon, 27 Jan 2014 10:54:38 +0000</pubDate>
+                <pubDate>Mon, 27 Jan 2014 17:04:30 +0000</pubDate>
                 <guid>/2014/01/27/when-boss-finds-a-flaw-in-my-bulletproof-proposition/</guid>
+            </item>
+                    <item>
+                <title>Correcting the exams of my bachelor students</title>
+                <description><![CDATA[<p><img src="/assets/gif/06-correction.gif"/></p>
+]]></description>
+                <link>/2014/01/26/correcting-the-exams-of-my-bachelor-students/</link>
+                <pubDate>Sun, 26 Jan 2014 17:04:30 +0000</pubDate>
+                <guid>/2014/01/26/correcting-the-exams-of-my-bachelor-students/</guid>
+            </item>
+                    <item>
+                <title>Student trying to reach me the day before the exam</title>
+                <description><![CDATA[<p><img src="/assets/gif/07-qa.gif"/></p>
+]]></description>
+                <link>/2014/01/25/student-trying-to-reach-me-the-day-before-the-exam/</link>
+                <pubDate>Sat, 25 Jan 2014 17:04:30 +0000</pubDate>
+                <guid>/2014/01/25/student-trying-to-reach-me-the-day-before-the-exam/</guid>
+            </item>
+                    <item>
+                <title>Bachelor student pretenting to speak the professors language</title>
+                <description><![CDATA[<p><img src="/assets/gif/08-language.gif"/></p>
+]]></description>
+                <link>/2014/01/24/bachelor-student-pretenting-to-speak-the-professors-language/</link>
+                <pubDate>Fri, 24 Jan 2014 17:04:30 +0000</pubDate>
+                <guid>/2014/01/24/bachelor-student-pretenting-to-speak-the-professors-language/</guid>
+            </item>
+                    <item>
+                <title>When I have a new paper idea</title>
+                <description><![CDATA[<p><img src="/assets/gif/09-idea.gif"/></p>
+]]></description>
+                <link>/2014/01/23/when-i-have-a-new-paper-idea/</link>
+                <pubDate>Thu, 23 Jan 2014 17:04:30 +0000</pubDate>
+                <guid>/2014/01/23/when-i-have-a-new-paper-idea/</guid>
+            </item>
+                    <item>
+                <title>When I present the first version of my paper to my boss</title>
+                <description><![CDATA[<p><img src="/assets/gif/10-presentation.gif"/></p>
+]]></description>
+                <link>/2014/01/22/when-i-present-the-first-version-of-my-paper-to-my-boss/</link>
+                <pubDate>Wed, 22 Jan 2014 17:04:30 +0000</pubDate>
+                <guid>/2014/01/22/when-i-present-the-first-version-of-my-paper-to-my-boss/</guid>
             </item>
             </channel>
 </rss>

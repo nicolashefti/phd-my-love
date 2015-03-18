@@ -1,4 +1,4 @@
-title: "PhD my love"
+title: "PhD, my love"
 description: "Epic GIF for PhD students"
 logo: spresso-logo.png
 
@@ -12,11 +12,11 @@ comments:
 
 # Information about author
 author:
-    name: Your Name
+    name: PhD my love
 
     # Social networks
-    twitter: spress_cms
-    github: https://github.com/spress/Spress
+    twitter:
+    github:
     bitbucket:
     facebook:
     linkedin:
@@ -41,10 +41,10 @@ bing_verify:
 
 # Page menus
 top_menu:
-    - { name: Home, url: / }
+#    - { name: Home, url: / }
 
 bottom_menu:
-    - { name: Go to Spresso theme web, url: https://github.com/yosymfony/Spress-theme-spresso }
+#    - { name: Go to Spresso theme web, url: https://github.com/yosymfony/Spress-theme-spresso }
 
 paginate: 5
 
